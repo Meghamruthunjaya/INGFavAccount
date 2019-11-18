@@ -93,9 +93,11 @@
     <snapshotRepository>
         <id>artifactorys</id>
         <name>snapshots</name>
-        <url>http://15.206.123.38:8081/artifactory/libs-snapshot-local</url>
+        <url>http://15.206.123.38:8081/artifactory/Newrepo</url>
     </snapshotRepository>
 </distributionManagement>
+	
+	
 
 
 	<build>
