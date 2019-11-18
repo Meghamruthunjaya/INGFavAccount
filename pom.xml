@@ -91,7 +91,7 @@
 </distributionManagement>-->
 	<distributionManagement>
     <snapshotRepository>
-        <id>artifactorys</id>
+        <id>artifactory</id>
         <name>snapshots</name>
         <url>http://15.206.123.38:8081/artifactory/Newrepo</url>
     </snapshotRepository>
